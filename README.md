@@ -23,6 +23,6 @@ A futuristic, animated terminal interface that responds to cryptic commands. Ins
 Clone this repo and open `index.html` in a browser:
 
 ```bash
-git clone https://github.com/yourusername/shadow-code-terminal.git
+git clone https://github.com/Dropout-22/ShadowCode.git
 cd shadow-code-terminal
 open index.html
