@@ -3,7 +3,7 @@
 A futuristic, animated terminal interface that responds to cryptic commands. Inspired by cyberpunk culture, digital awakening, and system manipulation themes.
 
 ## 🌐 Live Demo
-[Click here to try it out](https://yourusername.github.io/shadow-code-terminal)
+[Click here to try it out](https://dropout-22.github.io/ShadowCode/)
 
 ---
 
